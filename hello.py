@@ -1,2 +1,1 @@
-print("hello git!")
-print("are you sure?")
+print("yes very sure, happy now ^-^")
